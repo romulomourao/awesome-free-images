@@ -5,6 +5,7 @@ Name | Website | Type
 ------------ | ------- | --------
 FlatIcons | https://www.flaticon.com/ | Icons PNG, SVG, EPS, PSD and BASE 64 formats
 FreePik | http://www.freepik.com/ | Vectors, PSD, Icons and photos
+Iconfinder | https://www.iconfinder.com | PNG, SVG, ICO, AI
 Images | http://www.imagespng.com/ | png
 Pexels | https://www.pexels.com/ | photos
 Pixebay | https://pixabay.com/ | photos
